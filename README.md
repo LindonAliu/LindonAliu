@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  I'm currently in my 2nd year and ASTEK at <b>EPITECH</b>.
+  I'm currently in my 3rd year and ASTEK at <b>EPITECH</b>.
 </p>
 
 <p align='center'>
