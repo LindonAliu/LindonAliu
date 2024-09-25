@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I'm currently in my 3rd year and ASTEK at <b>EPITECH</b>.
+  I'm currently in my 4th and <b>freelance</b> developer.
 </p>
 
 <p align=center>
@@ -13,14 +13,9 @@
   <a href="https://www.epitech.eu">
       <img src="https://img.shields.io/badge/Epitech-1a2b6d?style=for-the-badge&logo=/e/&logoColor=white">
   </a>
-  <a href="https://www.datakeen.co">
-      <img src="https://img.shields.io/badge/Datakeen-1a2b6d?style=for-the-badge&logo=Disroot&logoColor=white">
-  </a>
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=LindonAliu&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true" width="49%" />
-  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindonAliu&theme=dark&layout=compact&langs_count=6"" width="49%" />
 </p>
 
@@ -28,10 +23,12 @@
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/ </a>
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
       <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
       <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+        <a href="https://www.javascript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python" width="40" height="40"/> </a>
+        <a href="https://typescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="python" width="40" height="40"/> </a>
+
 </p>
 
 <p align='center'>
