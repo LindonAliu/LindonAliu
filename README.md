@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I'm currently in my 4th and <b>freelance</b> developer.
+  I'm currently <b>freelance</b> developer and <b>teacher</b> at Epitech Paris.
 </p>
 
 <p align=center>
